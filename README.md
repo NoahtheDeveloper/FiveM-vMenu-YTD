@@ -14,3 +14,8 @@
 > https://discord.gg/2qwRRGg
 > 
 > ![alt text](https://camo.githubusercontent.com/e9502420c93a4ca71cb28eacca29b1d6ae64fa15/68747470733a2f2f692e6779617a6f2e636f6d2f63363064333333353130373866326330346136303663333937653961373034612e706e67)
+> 
+> 
+> # Basic Start Command #
+> ensure vMenu-texture
+> This is all you need to do, besides change the texture inside the YTD.
