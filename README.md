@@ -26,8 +26,14 @@
 > 
 > # Basic Start Command #
 > Step 1 | ensure vMenu-texture
+> 
 > Step 2 | Open the YTD in OPENIV
+> 
 > Step 3 | Turn on OPENIV Editing Mode
-> Step 4 | Drag the Menu out that has my logo on it and put it in an editing software like photoshop or photoea. Photoea is an online photoshop for free.
+> 
+> Step 4 | Drag the Menu out that has my logo on it and put it in an editing software like photoshop or photoea. Photoea is an online photoshop for free
+.
+> 
 > Step 5 | After finishing put the vMenu back in and make sure its in the stream folder.
+> 
 > Step 6 | Whenever changing textures RESTART GAME & Server
